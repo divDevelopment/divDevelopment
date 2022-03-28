@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=divDevelopment)]
+![Kayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=divDevelopment)
 
