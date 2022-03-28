@@ -1,4 +1,11 @@
 <!--START_SECTION:waka-->
-WAKATIME_API_KEY = 5180c9b9-bdae-4305-b82e-7b0876c5239a
-GH_TOKEN= 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
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 <!--END_SECTION:waka-->
