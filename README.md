@@ -20,4 +20,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divdevelopment&" alt="divdevelopment" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
