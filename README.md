@@ -1,6 +1,5 @@
 Hi there :wave:	
     
- ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 :bar_chart:	Weekly development breakdown:
 <!--START_SECTION:waka-->
