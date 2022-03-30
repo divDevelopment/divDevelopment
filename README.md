@@ -1,7 +1,7 @@
 
 # Working With #
     
-:bar_chart:	This month i spent my time on:    
+:bar_chart:	Weekly development breakdown:
 <!--START_SECTION:waka-->
 
 ```text
