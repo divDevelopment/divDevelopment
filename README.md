@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=7000&color=00F70E&background=FFFFFF00&center=true&vCenter=true&lines=Welcome+to+my+profile.)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=7000&color=00F70E&background=FFFFFF00&center=true&vCenter=true&lines=Welcome+to+my+profile.)
 
 
 :bar_chart:	Weekly development breakdown:
