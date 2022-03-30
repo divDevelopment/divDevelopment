@@ -1,6 +1,7 @@
 
 # Working With #
     
+:bar_chart:	This month i spent my time on:    
 <!--START_SECTION:waka-->
 
 ```text
