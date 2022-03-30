@@ -1,5 +1,4 @@
-
-# Working With #
+Hi there :wave:	
     
 :bar_chart:	Weekly development breakdown:
 <!--START_SECTION:waka-->
