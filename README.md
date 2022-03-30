@@ -1,6 +1,11 @@
 
 # Working With #
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 <!--START_SECTION:waka-->
 
 ```text
