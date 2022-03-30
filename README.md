@@ -23,6 +23,3 @@ C#   19 mins         ███████████████████�
 ✅  Completed 0 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
