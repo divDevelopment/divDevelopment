@@ -22,4 +22,5 @@ C#   21 mins         ███████████████████�
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=61FF01&lines=Visitor+count)](https://git.io/typing-svg) ![Visitor Count](https://profile-counter.glitch.me/divDevelopment/count.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=61FF01&lines=Visitor+count)](https://git.io/typing-svg) 
+![Visitor Count](https://profile-counter.glitch.me/divDevelopment/count.svg)
