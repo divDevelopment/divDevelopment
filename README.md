@@ -22,4 +22,5 @@ C#   21 mins         ███████████████████�
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-<span style="color: green"> ![Visitor Count](https://profile-counter.glitch.me/divDevelopment/count.svg) </span>
+<span style="color: green"> Visitor count: </span>
+![Visitor Count](https://profile-counter.glitch.me/divDevelopment/count.svg)
