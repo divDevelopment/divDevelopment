@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=7000&color=00F70E&background=FFFFFF00&center=true&vCenter=true&lines=Welcome+to+my+profile.) Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/divDevelopment/count.svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=7000&color=00F70E&background=FFFFFF00&center=true&vCenter=true&lines=Welcome+to+my+profile.) Visitor Count : 
 
 
 
@@ -21,3 +21,5 @@ C#   21 mins         ███████████████████�
 ✅  Completed 0 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+
+<span style="color: green"> ![Visitor Count](https://profile-counter.glitch.me/divDevelopment/count.svg) </span>
