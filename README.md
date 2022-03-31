@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=7000&color=00F70E&background=FFFFFF00&center=true&vCenter=true&lines=Welcome+to+my+profile.) 
-> Junior Game Developer
+> 👨🏻‍💻 Junior Game Developer
 
 
 :bar_chart:	Weekly development breakdown:
