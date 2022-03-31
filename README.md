@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=7000&color=00F70E&background=FFFFFF00&center=true&vCenter=true&lines=Welcome+to+my+profile.) 
-> 👨🏻‍💻 Junior Game Developer [![div's GitHub stats](https://github-readme-stats.vercel.app/api?username=divDevelopment)](https://metrics.lecoq.io/divDevelopment#gh-light-mode-only)
+> 👨🏻‍💻 Junior Game Developer
+> I'm Kayra 
+> ⚒️ C#, Unity
+ [![div's GitHub stats](https://github-readme-stats.vercel.app/api?username=divDevelopment)](https://metrics.lecoq.io/divDevelopment#gh-light-mode-only)
 
 
 
