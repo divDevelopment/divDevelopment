@@ -1,4 +1,7 @@
-   # Welcome to div's profile!
+ <pre>
+          # Welcome to div's profile!
+</pre>
+
 > I'm Kayra <br /> 👨🏻‍💻 Junior Game Developer <br /> ⚒️ Unity, C# <br /> 👨 Pronouns: he/him 
 
 
