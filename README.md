@@ -1,5 +1,6 @@
 
 # Welcome to div's profile!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F78469&lines=Junior+game+developer)](https://git.io/typing-svg)
 
 
 > I'm Kayra <br /> 👨🏻‍💻 Junior Game Developer <br /> ⚒️ Unity, C# <br /> 👨 Pronouns: he/him 
