@@ -1,5 +1,4 @@
-******Welcome to div's profile!
-
+ <font size="6"> This is my text number 6</font>
 > I'm Kayra <br /> 👨🏻‍💻 Junior Game Developer <br /> ⚒️ Unity, C# <br /> 👨 Pronouns: he/him 
 
 
