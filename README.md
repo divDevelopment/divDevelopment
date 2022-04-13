@@ -5,8 +5,7 @@
 > I'm Kayra <br /> 👨🏻‍💻 Junior Game Developer <br /> ⚒️ Unity, C# <br /> 👨 Pronouns: he/him 
 
 
-
-[![div's GitHub stats](https://github-readme-stats.vercel.app/api?username=divDevelopment)](https://metrics.lecoq.io/divDevelopment#gh-light-mode-only)
+[![div's GitHub stats](https://github-readme-stats.vercel.app/api?username=divDevelopment)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
