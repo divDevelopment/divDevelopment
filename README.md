@@ -26,5 +26,5 @@ C#   17 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 <!-- TODO-IST:END -->
 
 ![](https://komarev.com/ghpvc/?username=divDevelopment)
-[![Discord Presence](https://lanyard.cnrad.dev/api/:737222461619175465)](https://discord.com/users/:737222461619175465)
+[![Discord Presence](https://lanyard.cnrad.dev/api/737222461619175465)](https://discord.com/users/737222461619175465)
 
