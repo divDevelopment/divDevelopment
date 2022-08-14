@@ -1,5 +1,7 @@
 
 # Welcome to div's profile!
+
+![LinkedIn Photo](https://media.licdn.com/media/AAYQAgTPAAgAAQAAAAAAADVuOvKzTF-3RD6j-qFPqhubBQ.png)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Junior+game+developer)
 
 I'm Kayra <br /> 👨🏻‍💻 Junior Game Developer <br /> ⚒️ Unity, C# <br /> 👨 Pronouns: he/him 
