@@ -5,5 +5,8 @@
 
 I'm Kayra <br /> 👨🏻‍💻 Junior Game Developer <br /> ⚒️ Unity, C#, Unreal Engine 5
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/737222461619175465)](https://discord.com/users/737222461619175465)
 
