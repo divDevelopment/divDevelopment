@@ -3,6 +3,5 @@
 
 I'm Kayra <br /> 👨🏻‍💻Game Developer <br /> ⚒️ Unity, C#, Unreal Engine 5, C++
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divDevelopment&hide=contribs,prs)
