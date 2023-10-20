@@ -1,6 +1,6 @@
 
 # Welcome to div's profile!
 
-I'm Kayra <br /> 👨🏻‍💻Game Developer <br /> ⚒️ Unity, C#, Unreal Engine 5, C++
+I'm Kayra <br /> 👨🏻‍💻Game Developer <br /> ⚒️ Unity, C#, C++
 
 
